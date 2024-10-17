@@ -1,0 +1,14 @@
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.deps.json
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.runtimeconfig.json
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.dll
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\bin\Debug\net6.0\Ecommerce.Data.pdb
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.csproj.AssemblyReference.cache
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.AssemblyInfoInputs.cache
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.AssemblyInfo.cs
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.csproj.CoreCompileInputs.cache
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.dll
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\obj\Debug\net6.0\refint\Ecommerce.Data.dll
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.pdb
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\obj\Debug\net6.0\Ecommerce.Data.genruntimeconfig.cache
+E:\9. Internship\.eccom_final\sample-ecommerce\Ecommerce.Data\obj\Debug\net6.0\ref\Ecommerce.Data.dll
